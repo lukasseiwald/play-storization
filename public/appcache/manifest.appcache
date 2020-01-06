@@ -1,0 +1,18 @@
+CACHE MANIFEST
+#ver:1/6/2020, 12:58:44 PM
+#plugin:4.9.1
+
+CACHE:
+/vendor.c6e2afe3.js
+/client.92a14a86.js
+/manifest.d4121f94.js
+/styles.c9fb029a.css
+/
+/logo.svg
+/favicon.ico
+
+NETWORK:
+*
+
+FALLBACK:
+/ /
