@@ -1,9 +1,9 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/vendor.c6e2afe3.js",
-      "/client.92a14a86.js",
-      "/manifest.d4121f94.js",
+      "/vendor.5724d79d.js",
+      "/client.f953279b.js",
+      "/manifest.0f578475.js",
       "/styles.c9fb029a.css",
       "/",
       "/logo.svg",
@@ -14,11 +14,11 @@ var __wpo = {
   },
   "externals": [],
   "hashesMap": {
-    "b0bf105d3cc17262f877ae8e2a90e7cef86d4170": "/vendor.c6e2afe3.js",
-    "2859632e950ae501edc127792c8b09111a5ff9e4": "/client.92a14a86.js",
-    "29eefff98b92baa01e4de71942f8141a3d1d8607": "/manifest.d4121f94.js",
+    "d786644f6cc941cb23dcd1ccbf351831b6dbb852": "/vendor.5724d79d.js",
+    "829ea963663765a7badc6342c4dbba632396a092": "/client.f953279b.js",
+    "4b435e741b69874aa61bffab6daf70f88f07d595": "/manifest.0f578475.js",
     "cd6f9c3224c2a6f4703f45dd6aa260cd4e05b96b": "/styles.c9fb029a.css",
-    "6ed5e4ca9919f00c5a5c84a25b6987dc8f4813a4": "/",
+    "09a1a739ae4ec61e7a80b3d54fb03b7901bc3c0c": "/",
     "054fcaa101302ee75e30d3c0e07de6a5a0d4e833": "/logo.svg",
     "1f88f14d959244697a68f619f52e622cbea8492b": "/favicon.ico"
   },
@@ -26,7 +26,7 @@ var __wpo = {
   "navigateFallbackForRedirects": true,
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/6/2020, 12:58:44 PM",
+  "version": "1/6/2020, 2:11:07 PM",
   "name": "webpack-offline",
   "pluginVersion": "4.9.1",
   "relativePaths": false
