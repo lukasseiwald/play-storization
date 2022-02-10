@@ -66,7 +66,7 @@
     "google-play-scraper": "git+https://github.com/RainbowBunchie/google-play-scraper.git",
     "html-webpack-plugin": "^2.22.0",
     "install": "^0.13.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.13.1",
     "offline-plugin": "^4.5.3",
     "postcss-loader": "^0.9.1",
